@@ -1,1 +1,1 @@
-# Rubika-bot-sendMessage_channel_to_gp
+## سورس ارسال پیام های کانال به گروه
